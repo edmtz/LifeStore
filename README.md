@@ -1,5 +1,6 @@
 # LifeStore
 Sistema de análisis para el departamento de ventas de la tienda virtual LifeStore
+
 ![1](/REPORTE-LIFESTORE/1.jpg)
 ![2](/REPORTE-LIFESTORE/2.jpg)
 ![3](/REPORTE-LIFESTORE/3.jpg)
