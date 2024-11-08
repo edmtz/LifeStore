@@ -1,5 +1,17 @@
 # LifeStore
 Sistema de análisis para el departamento de ventas de la tienda virtual LifeStore
-![e](REPORTE LIFESTORE/1.jpg)
-
-![ej](/REPORTE-LIFESTORE/1.jpg)
+![1](/REPORTE-LIFESTORE/1.jpg)
+![2](/REPORTE-LIFESTORE/2.jpg)
+![3](/REPORTE-LIFESTORE/3.jpg)
+![4](/REPORTE-LIFESTORE/4.jpg)
+![5](/REPORTE-LIFESTORE/5.jpg)
+![6](/REPORTE-LIFESTORE/6.jpg)
+![7](/REPORTE-LIFESTORE/7.jpg)
+![8](/REPORTE-LIFESTORE/8.jpg)
+![9](/REPORTE-LIFESTORE/9.jpg)
+![10](/REPORTE-LIFESTORE/10.jpg)
+![11](/REPORTE-LIFESTORE/11.jpg)
+![12](/REPORTE-LIFESTORE/12.jpg)
+![13](/REPORTE-LIFESTORE/13.jpg)
+![14](/REPORTE-LIFESTORE/14.jpg)
+![15](/REPORTE-LIFESTORE/15.jpg)
